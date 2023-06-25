@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tabitha, a<a href="https://linkedin.com/in/tabithacostello"> Help Desk Professional </a>☺</h1>
+<h1>Hi, I'm Tabitha, a<a href="https://www.linkedin.com/in/tabithacostello"> Help Desk Professional </a>☺</h1>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
